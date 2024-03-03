@@ -1,2 +1,2 @@
 # bootsrap
-first bootsrao website
+first bootsrap website
